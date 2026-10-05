@@ -62,11 +62,11 @@ A ferramenta auxilia na preparação do jogo para utilização através da Steam
 
 ## 🛠️ Versão atual
 
-**Steam Inject v1.1.3**
+**Steam Inject v1.1.9**
 
 ### Changelog
 
-**v1.1.3**
+**v1.1.9**
 
 * Versão pública do Steam Inject.
 * Melhorias e ajustes no funcionamento da ferramenta.
@@ -106,6 +106,6 @@ O código-fonte e os arquivos deste projeto não devem ser redistribuídos, modi
 
 🟢 **Projeto ativo**
 
-**Versão:** `v1.1.3`
+**Versão:** `v1.1.9`
 **Plataforma:** `Windows`
 **Desenvolvido para:** `TM Store Games`
