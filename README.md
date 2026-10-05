@@ -8,7 +8,7 @@ Ferramenta desenvolvida para auxiliar na ativação e configuração de jogos ad
 
 Acesse a seção **Releases** para baixar a versão mais recente do Steam Inject.
 
-👉 **[Baixar Steam Inject](https://github.com/mhf-gamer/STEAM-INJECT/releases/download/v1.1.9/SteamInject-Setup.exe)**
+👉 **[Baixar Steam Inject](https://github.com/mhf-gamer/STEAM-INJECT/releases/download/v2.0.0/SteamInject-Setup.exe)**
 
 O executável disponível para download é:
 
@@ -62,11 +62,11 @@ A ferramenta auxilia na preparação do jogo para utilização através da Steam
 
 ## 🛠️ Versão atual
 
-**Steam Inject v1.1.9**
+**Steam Inject v2.0.0**
 
 ### Changelog
 
-**v1.1.9**
+**v2.0.0**
 
 * Versão pública do Steam Inject.
 * Melhorias e ajustes no funcionamento da ferramenta.
@@ -106,6 +106,6 @@ O código-fonte e os arquivos deste projeto não devem ser redistribuídos, modi
 
 🟢 **Projeto ativo**
 
-**Versão:** `v1.1.9`
+**Versão:** `v2.0.0`
 **Plataforma:** `Windows`
 **Desenvolvido para:** `TM Store Games`
