@@ -8,7 +8,7 @@ Ferramenta desenvolvida para auxiliar na ativação e configuração de jogos ad
 
 Acesse a seção **Releases** para baixar a versão mais recente do Steam Inject.
 
-👉 **[Baixar Steam Inject](../../releases/latest)**
+👉 **[Baixar Steam Inject](https://github.com/mhf-gamer/STEAM-INJECT/releases/download/v1.1.9/SteamInject-Setup.exe)**
 
 O executável disponível para download é:
 
